@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rampagetest254@gmail.com**
 
-- ⚡ Fun fact **I think AI is overated.**
+- ⚡ Fun fact **I speak pure python since its a language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
