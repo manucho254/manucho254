@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vuejs and just started nodejs**
 
-- 💬 Ask me about ** Python, Django, Jvascript , Vuejs **
+- 💬 Ask me about **Python, Django, Jvascript , Vuejs**
 
 - 📫 How to reach me **rampagetest254@gmail.com**
 
