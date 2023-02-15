@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, JavaScript, Vuejs**
 
-- 📫 How to reach me **rampagetest254@gmail.com**
+- 📫 How to reach me **manuchoadero@gmail.com**
 
 - ⚡ Fun fact **I speak pure python since its a language.**
 
