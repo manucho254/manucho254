@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manucho254&label=Profile%20views&color=0e75b6&style=flat" alt="manucho254" /> </p>
 
-- 🌱 I’m currently learning **Vuejs and just started nodejs**
+- 🌱 I am studying at ALX to become **A fullstack software engineer**
 
 - 💬 Ask me about **Python, Django, JavaScript, Vuejs**
 
