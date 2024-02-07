@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manucho254&label=Profile%20views&color=0e75b6&style=flat" alt="manucho254" /> </p>
 
-- 🌱 Alx ** Fullstack Software Engineering ** student
+- 🌱 Alx **Fullstack Software Engineering** student
 
 - 💬 Ask me about **Python, Django, JavaScript, Vuejs**
 
