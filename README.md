@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel.</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manucho254&label=Profile%20views&color=0e75b6&style=flat" alt="manucho254" /> </p>
 
-- 🌱 Alx **Fullstack Software Engineering** Alumni
+- 🌱 Alx **Fullstack Software Engineering** Alumni.
 
-- 💬 Ask me about **Python, Django, JavaScript, Vuejs**
+- 💬 Ask me about **Python, Django, JavaScript, Vuejs**.
 
-- 📫 How to reach me **manuchoadero@gmail.com**
+- 📫 How to reach me **manuchoadero@gmail.com**.
 
-- ⚡ Fun fact **I speak pure python since its a language.**
+- ⚡ Fun fact **I speak pure python since its a language**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
